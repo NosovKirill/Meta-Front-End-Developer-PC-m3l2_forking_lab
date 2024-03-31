@@ -1,2 +1,3 @@
-Dmitry Mertsalov 
-Meta-Front-End-Developer-PC-m3l2_forking_lab
+Kirill
+Calgary
+Meta Front-End Developer Professional Certificate
